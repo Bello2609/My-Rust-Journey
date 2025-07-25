@@ -1,0 +1,1 @@
+/home/alliendeveloper/Desktop/Programming/Rust/learning\ rust/chapter\ 3/functions/target/debug/functions: /home/alliendeveloper/Desktop/Programming/Rust/learning\ rust/chapter\ 3/functions/src/main.rs
