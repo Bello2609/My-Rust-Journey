@@ -1,0 +1,1 @@
+/home/alliendeveloper/Desktop/Programming/Rust/learning\ rust/chapter\ 2/guess_game/target/debug/guess_game: /home/alliendeveloper/Desktop/Programming/Rust/learning\ rust/chapter\ 2/guess_game/src/main.rs
