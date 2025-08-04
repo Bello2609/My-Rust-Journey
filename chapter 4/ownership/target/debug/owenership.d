@@ -1,0 +1,1 @@
+/home/alliendeveloper/Desktop/Programming/Rust/learning\ rust/chapter\ 4/ownership/target/debug/owenership: /home/alliendeveloper/Desktop/Programming/Rust/learning\ rust/chapter\ 4/ownership/src/main.rs
